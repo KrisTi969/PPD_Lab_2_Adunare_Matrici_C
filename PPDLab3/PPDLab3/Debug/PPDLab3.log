@@ -1,0 +1,10 @@
+﻿  PPDLab3.cpp
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(36): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(48): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(170): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(174): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(254): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\crys_\onedrive\documents\visual studio 2017\projects\ppdlab3\ppdlab3\ppdlab3.cpp(258): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+  PPDLab3.vcxproj -> C:\Users\crys_\OneDrive\Documents\Visual Studio 2017\Projects\PPDLab3\Debug\PPDLab3.exe
+  PPDLab3.vcxproj -> C:\Users\crys_\OneDrive\Documents\Visual Studio 2017\Projects\PPDLab3\Debug\PPDLab3.pdb (Partial PDB)
